@@ -37,8 +37,7 @@ passionate about building innovative real-world solutions.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-HackerXTEch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HackerXTEch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangiraj/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhangiraj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangiraj/)
 
 </div>
 
