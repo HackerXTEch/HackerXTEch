@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=HackerXTech&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%26%20Website%20Developer&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img width="987" height="475" alt="banner (1)" src="https://github.com/user-attachments/assets/9e6afba5-d29b-4190-9deb-acec3cc96de7" />
 
 </div>
 
@@ -11,7 +11,7 @@
 
 ### 👋 Hey, I'm **Shubh** — aka HackerXTech
 
-BCA student and aspiring Software Engineer skilled in full-stack development and AI,  
+Aspiring Software Engineer skilled in full-stack development and AI,  
 passionate about building innovative real-world solutions.
 
 </div>
@@ -20,11 +20,16 @@ passionate about building innovative real-world solutions.
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pursuing **BCA** at Birla Institute of Technology (B.I.T.) Mesra, Ranchi
-- 💼 Operating under the brand **HackerXTech**
-- 🌱 Currently leveling up in **Full-Stack Dev**, **UI/UX**, and **AI/ML**
-- ⚡ Love building clean, fast, and beautiful web experiences
-- 🤝 Open to collaborations, freelance work, and open source contributions
+💡 Full-Stack Developer with a passion for **modern web technologies**. Currently diving deep into **AI & API development**, with a focus on:
+
+- **JavaScript, TypeScript**: Strong skills in client-side and server-side scripting.
+- **React, Next.js, Tailwind CSS**: Building fast, responsive, and beautiful UIs.
+- **Node.js, Express, FastAPI**: Developing scalable backend systems and REST APIs.
+- **Python, Django**: Experienced in backend logic and data-driven applications.
+- **SQLite, MySQL, PostgreSQL**: Managing and querying relational databases.
+- **Figma, Framer**: Proficient in UI/UX design and prototyping.
+
+🚀 **Open source** enthusiast. Continuously learning and building for the community.
 
 ---
 
@@ -33,7 +38,7 @@ passionate about building innovative real-world solutions.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-HackerXTEch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HackerXTEch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangiraj/)
 
 </div>
 
@@ -41,23 +46,20 @@ passionate about building innovative real-world solutions.
 
 ## 🛠 Skillset
 
-**Languages**
+<div align="center">
 
-![Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,r)
+![](https://skillicons.dev/icons?i=python,js,ts,html,css&perline=5)
 
-**Frameworks & Libraries**
+![](https://skillicons.dev/icons?i=r,react,tailwind,django,nodejs&perline=5)
 
-![Skills](https://skillicons.dev/icons?i=react,tailwind,django,nodejs,express,fastapi)
+![](https://skillicons.dev/icons?i=express,fastapi,astro,sqlite,mysql&perline=5)
 
-**Databases**
+![](https://skillicons.dev/icons?i=postgres,vscode,git,github,figma&perline=5)
 
-![Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres)
+![](https://skillicons.dev/icons?i=framer,canva&perline=5)
 
-**Tools**
+</div>
 
-![Skills](https://skillicons.dev/icons?i=vscode,git,github,claude,figma,framer,canva)
-
----
 
 ## 📊 GitHub Stats
 
